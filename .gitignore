@@ -28,4 +28,5 @@ bin/
 .metadata/
 .settings/
 .classpath
+.recommenders/
 RemoteSystemsTempFiles/
