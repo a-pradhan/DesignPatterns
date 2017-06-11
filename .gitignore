@@ -1,0 +1,31 @@
+#Gitignore for Design Patterns Eclipse workspace
+
+#targets
+*.jar
+*.war
+*.ear
+*.class
+
+#windows OS specific
+Thumbs.db
+Desktop.ini
+
+#OSX specific
+.DS_Store
+.svn
+
+#Thumbnails
+._*
+
+#Files that can appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+#Eclipse specific
+bin/
+.project
+.metadata/
+.settings/
+.classpath
+RemoteSystemsTempFiles/
